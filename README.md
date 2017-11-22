@@ -4,6 +4,8 @@ Rough archive of a 10-week online graduate course at Worcester Polytechnic Insti
 
 See also [Videos on YouTube from the course](https://www.youtube.com/watch?v=CXYcvJoQlSo&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ).
 
+**Note:** The links below will only work when [viewing the site](https://curran.github.io/dataviz-course-archive/).
+
 [Syllabus](syllabus.html)
 
 ### Week 1
