@@ -1,0 +1,47 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Assignment: Create an Interactive Visualization</title>
+</head>
+<body>
+<p>For this assignment, you are to create an interactive visualization by doing the following:</p>
+<ul>
+<li>Take a look at your bl.ocks.org profile and think about which of your existing visualizations could be made interactive.</li>
+<li>Fork one of your examples on bl.ocks.org.</li>
+<li>Add one of the interaction techniques discussed in Chapter 11 and listed below to the fork.</li>
+<li>Submit the bl.ocks.org URL of the interactive visualization.</li>
+</ul>
+<p>You may add any of the following interactions:</p>
+<ul>
+<li>Change over time
+<ul>
+<li>For example, you could add a menu for selecting which attribute maps to a certain channel (such as X, Y, or Color), and make the visualization change to the new selection with an animated transition.</li>
+<li>Here's an example that does this: <a href="http://bl.ocks.org/micahstubbs/b097f9d0999848ee70b74b36ce30cbb8">scatterplot menus with d3-component | radius select</a>
+</li>
+<li>Another example of change over time would be to add a time slider.</li>
+</ul>
+</li>
+<li>Highlighting
+<ul>
+<li>For example, hovering over elements in a color legend can highlight the corresponding marks. This can be done wherever there is a color legend.</li>
+<li>Here's an example that does this: <a href="https://bl.ocks.org/curran/0d2cc6698cad72a48027b8de0ebb417d">Religions of Largest 20 Countries</a>
+</li>
+<li>Note that one effective way to achieve this is to have separate layers as &lt;g&gt; elements, one for the static base layer, and one for the highlighted marks.</li>
+</ul>
+</li>
+<li>Panning &amp; Zooming
+<ul>
+<li>If your visualization has lots of detail, panning and zooming may be a good choice.</li>
+<li>It's most common with maps, but also can work for scatter plots and other idioms.</li>
+<li>There are many examples in <a href="https://github.com/d3/d3-zoom">d3-zoom</a>
+<ul>
+<li>The simplest to implement is <a href="https://bl.ocks.org/mbostock/4e3925cdc804db257a86fdef3a032a45">geometric zooming</a>, which updates the transform of a group element.</li>
+</ul>
+</li>
+<li>Here's an example of <a href="https://bl.ocks.org/curran/4f0dbed52eca9ae1a5c28a54acf2eeeb">panning &amp; zooming on a globe</a>.</li>
+<li>Here's a more complex example <a href="https://bl.ocks.org/curran/115407b42ef85b0758595d05c825b346">Cities on the Globe</a>.</li>
+</ul>
+</li>
+</ul>
+</body>
+</html>

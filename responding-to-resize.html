@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Assignment: Responding to Resize</title>
+</head>
+<body>
+<p>Take your favorite visualization you're made so far on bl.ocks.org, fork it, and make it respond to browser resize.</p>
+<p>You can use the code from <a href="https://bl.ocks.org/curran/3a68b0c81991e2e94b19">Responding to Resize</a> to listen for changes in browser size.</p>
+<p>The main challenge will be to make your visualization into a function that can be invoked repeatedly. This is the first step towards creating <em>dynamic interactive</em> visualizations.</p>
+<p>You will likely need to modify your code to use the <strong>General Update Pattern</strong>.</p>
+<p>Please watch:</p>
+<ul>
+<li><a class="" href="https://www.youtube.com/watch?v=Ewh-6MtQXuo&amp;feature=youtu.be">The General Update Pattern</a></li>
+<li><a class="" href="https://www.youtube.com/watch?v=nBvvSmL3Ypw&amp;feature=youtu.be">General Update Pattern Special Cases</a></li>
+<li>A bit of background on these videos: These are first drafts of material for the D3.js in Motion course that we did not end up using. So there are references to "the previous module" and they are generally a bit rough around the edges - I apologize for this - but they do cover the main concepts of the General Update Pattern, and I hope you can learn from them.</li>
+</ul>
+<p>See the following resources to learn about the General Update Pattern:</p>
+<ul>
+<li><a href="https://github.com/d3/d3-selection#selection_merge">selection.merge documentation</a></li>
+<li><a href="https://bl.ocks.org/curran/65bb295d224a09f83fad6f9942ee4639">Basic General Update Pattern</a></li>
+<li><a href="https://bl.ocks.org/mbostock/3808218">General Update Pattern, I</a></li>
+<li><a href="https://bl.ocks.org/mbostock/3808221">General Update Pattern, II</a></li>
+<li><a href="https://bl.ocks.org/mbostock/3808234">General Update Pattern, III</a></li>
+<li><a href="https://bl.ocks.org/curran/3a68b0c81991e2e94b19">Responding to Resize</a></li>
+<li>
+<a href="https://github.com/curran/dataviz-project-template">https://github.com/curran/dataviz-project-template</a>  &lt;-- Complete solution example</li>
+</ul>
+<p><strong>Note</strong>: Blockbuilder has features of "side by side mode" and "go to fullscreen", which change the size of the running program. You can use these to test if your code responds to resize. These are the widgets in the upper left corner, below the search icon. You can also clone the Gist and do local development in a full browser window, which may be more comfortable.</p>
+<p><strong>Note</strong>: It is <em>not</em> acceptable to take the approach of removing everything from the DOM, then executing the rest of the same code from before, like this:</p>
+<pre>svg.selectAll('*').remove();</pre>
+<p>The point of this assignment is to learn and use the General Update Pattern. If you're familiar with React at all, the General Update Pattern is sort of similar to React's "virtual DOM diffing" strategy. The General Update Pattern is arguably the most difficult concept of D3, and will take some time to grok. It it also arguably <em>the most rewarding</em> D3 concept to learn, as it unlocks your ability to create performant interactive and dynamic graphics.</p>
+<p>Good luck! Feel free to ask for help in the #help channel in Slack if you get stuck.</p>
+</body>
+</html>
