@@ -10,7 +10,7 @@ https://curran.github.io/dataviz-course-archive/
 
 ### Week 1
 
- * [week-1-launch-video](https://curran.github.io/dataviz-course-archive/week-1-launch-video)
+ * [Dataviz Course Launch Introduction Video](https://www.youtube.com/watch?v=CXYcvJoQlSo&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ)
  * [week-1-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-1-reading-and-lecture)
  * [introduce-yourself](https://curran.github.io/dataviz-course-archive/introduce-yourself)
  * [create-a-bar-chart](https://curran.github.io/dataviz-course-archive/create-a-bar-chart)
@@ -18,7 +18,7 @@ https://curran.github.io/dataviz-course-archive/
 
 ### Week 2
 
- * [week-2-launch-video](https://curran.github.io/dataviz-course-archive/week-2-launch-video)
+ * [week-2-launch-video](https://www.youtube.com/watch?v=eDqQ-R7dxXU&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ&index=3)
  * [week-2-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-2-reading-and-lecture)
  * [find-3-datasets](https://curran.github.io/dataviz-course-archive/find-3-datasets)
  * [create-a-scatter-plot](https://curran.github.io/dataviz-course-archive/create-a-scatter-plot)
@@ -32,6 +32,7 @@ https://curran.github.io/dataviz-course-archive/
 
 ### Week 4
 
+ * [week-4-launch-video](https://www.youtube.com/watch?v=vqFtyHjCytY&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ&index=7)
  * [week-4-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-4-reading-and-lecture)
  * [sketch-proposal](https://curran.github.io/dataviz-course-archive/sketch-proposal)
  * [d3-detox](https://curran.github.io/dataviz-course-archive/d3-detox)
@@ -39,12 +40,14 @@ https://curran.github.io/dataviz-course-archive/
 
 ### Week 5
 
+ * [week-5-launch-video](https://www.youtube.com/watch?v=UEYhyTRkPUE&index=8&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ)
  * [week-5-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-5-reading-and-lecture)
  * [voice-your-desires](https://curran.github.io/dataviz-course-archive/voice-your-desires)
  * [final-project-proposal](https://curran.github.io/dataviz-course-archive/final-project-proposal)
 
 ### Week 6
 
+ * [week-6-launch-video](https://www.youtube.com/watch?v=tEGjnrsFxTQ&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ&index=9)
  * [week-6-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-6-reading-and-lecture)
  * [track-project-issues](https://curran.github.io/dataviz-course-archive/track-project-issues)
  * [responding-to-resize](https://curran.github.io/dataviz-course-archive/responding-to-resize)
@@ -52,6 +55,7 @@ https://curran.github.io/dataviz-course-archive/
 
 ### Week 7
 
+ * [week-7-launch-video](https://www.youtube.com/watch?v=FfrzVpVc5A0&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ&index=10)
  * [week-7-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-7-reading-and-lecture)
  * [create-an-interactive-visualization](https://curran.github.io/dataviz-course-archive/create-an-interactive-visualization)
  * [deploy-your-project](https://curran.github.io/dataviz-course-archive/deploy-your-project)
@@ -59,6 +63,7 @@ https://curran.github.io/dataviz-course-archive/
 
 ### Week 8
 
+ * [week-8-launch-video](https://www.youtube.com/watch?v=eBr0F2UenPI&index=11&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ)
  * [week-8-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-8-reading-and-lecture)
  * [week-8-launch-video](https://curran.github.io/dataviz-course-archive/week-8-launch-video)
  * [research-interactive-visualizations](https://curran.github.io/dataviz-course-archive/research-interactive-visualizations)
@@ -74,8 +79,8 @@ https://curran.github.io/dataviz-course-archive/
 
 ### Week 10
 
+ * [course-outro-video](https://www.youtube.com/watch?v=6025Z388i0g&index=2&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ)
  * [week-10-reading-and-lecture](https://curran.github.io/dataviz-course-archive/week-10-reading-and-lecture)
- * [course-outro-video](https://curran.github.io/dataviz-course-archive/course-outro-video)
  * [course-retrospective](https://curran.github.io/dataviz-course-archive/course-retrospective)
  * [fill-out-wpi-survey](https://curran.github.io/dataviz-course-archive/fill-out-wpi-survey)
  * [final-project-video](https://curran.github.io/dataviz-course-archive/final-project-video)
