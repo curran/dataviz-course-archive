@@ -6,6 +6,8 @@ Site: https://curran.github.io/dataviz-course-archive/
 
 See also [Videos on YouTube from the course](https://www.youtube.com/watch?v=CXYcvJoQlSo&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ).
 
+This material leverages the video course [D3.js in Motion](https://www.manning.com/livevideo/d3-js-in-motion) (40% discount code "ytkelleher")
+
 ## [Syllabus](https://curran.github.io/dataviz-course-archive/syllabus)
 
 <iframe src="https://www.youtube.com/embed/CXYcvJoQlSo" width="720" height="405" allowfullscreen="allowfullscreen"></iframe>
