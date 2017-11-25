@@ -8,6 +8,8 @@ See also [Videos on YouTube from the course](https://www.youtube.com/watch?v=CXY
 
 ## [Syllabus](https://curran.github.io/dataviz-course-archive/syllabus)
 
+<iframe src="https://www.youtube.com/embed/CXYcvJoQlSo" width="720" height="405" allowfullscreen="allowfullscreen"></iframe>
+
 ## Week 1
 
  * [Dataviz Course Launch Introduction Video](https://www.youtube.com/watch?v=CXYcvJoQlSo&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ)
@@ -83,3 +85,5 @@ See also [Videos on YouTube from the course](https://www.youtube.com/watch?v=CXY
  * [Week 10 Reading and Lecture](https://curran.github.io/dataviz-course-archive/week-10-reading-and-lecture)
  * [Course Retrospective](https://curran.github.io/dataviz-course-archive/course-retrospective)
  * [Final Project Video](https://curran.github.io/dataviz-course-archive/final-project-video)
+
+<iframe src="https://www.youtube.com/embed/6025Z388i0g" width="720" height="405" allowfullscreen="allowfullscreen"></iframe>
