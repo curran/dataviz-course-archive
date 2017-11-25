@@ -1,12 +1,12 @@
 # Data Visualization Course Archive
 
-Rough archive of a 10-week online graduate course at Worcester Polytechnic Institute. Taught by Curran Kelleher, fall 2017.
-
-See also [Videos on YouTube from the course](https://www.youtube.com/watch?v=CXYcvJoQlSo&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ).
+Archive of a 10-week online graduate course at Worcester Polytechnic Institute. Taught by Curran Kelleher, fall 2017.
 
 https://curran.github.io/dataviz-course-archive/
 
-[Syllabus](https://curran.github.io/dataviz-course-archive/syllabus)
+See also [Videos on YouTube from the course](https://www.youtube.com/watch?v=CXYcvJoQlSo&list=PL9yYRbwpkykteVRlKLRsxJ8163iYbVObZ).
+
+### [Syllabus](https://curran.github.io/dataviz-course-archive/syllabus)
 
 ### Week 1
 
