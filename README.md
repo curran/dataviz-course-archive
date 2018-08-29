@@ -1,4 +1,6 @@
-# [Data Visualization Course Archive](https://curran.github.io/dataviz-course-archive/)
+# [Data Visualization 2017 Course Archive](https://curran.github.io/dataviz-course-archive/)
+
+See also [Data Visualization Course 2018](https://github.com/curran/dataviz-course-2018)
 
 Archive of a 10-week online graduate course at Worcester Polytechnic Institute.<br>Taught by Curran Kelleher, fall 2017.
 
